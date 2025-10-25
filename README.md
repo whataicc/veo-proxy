@@ -22,9 +22,6 @@
 
 ### **✅ 为什么选择【神马中转API】Veo中转服务？**
 
-**优势**
-
-**描述**
 
 🌍 国内直连支持
 
@@ -128,3 +125,81 @@ API Key加密管理，严格权限控制
 👇 那么，来试试 **神马中转API** 吧！
 
 ![Veo中转API低价稳定_veo代理API_Veo api key一站购_Veo API国内直连，神马聚合中转Veo API中转站_Veo代理API_Veo api key购买_低价稳定Veo API_国内直连支持，开发者首选](https://pic.imgdd.cc/item/68c78cabfcdff65483faea2a.jpg)
+
+## 如何快速接入神马聚合中转API
+
+⚡3步闪电接入【神马聚合中转API】（api.whatai.cc） · 智启全球650+顶尖AI · 自由选源 精准控成本
+
+✅极简通用流程：
+
+开发者｜企业｜创作者 — 仅需3步，零配置调用
+ChatGPT、Claude、Gemini 等 260+ 全球模型！
+
+支持多源渠道接入 · 价格透明对比 · 按预算自由选择
+
+✅专属核心价值：
+
+开发者｜低成本集成 + 灵活选型降本，高效构建AIGC 应用
+
+企业｜API驱动自动化流程 + 预算可控，智能服务升级
+
+创作者｜零基础玩转AI 创作全场景 + 丰俭由人选渠道
+
+让复杂归简 · 让创新加速！
+
+**立即体验：【神马聚合中转API】（api.whatai.cc）**  
+
+![AI大模型API中转聚合站推荐_神马中转API_OpenAI&Claude API 中转站](https://pic2.imgdd.cc/item/68c7938dfcdff65483faf060.png)
+
+### 🏁 我们的优势
+
+🌟 我们100%采用企业高速渠道，无套路无广告无保留聊天数据
+
+🌟 性价比最高的稳定三无纯净API源头
+
+🌟 覆盖全球8大地区，包括美国、日本、韩国、英国、新加坡、香港、菲律宾和俄罗斯，共计服务10万+满意客户
+
+🌟 稳定运行18个月，我们承诺永久优质服务
+
+
+### ♥ 选择我们，就是选择高效与可靠
+
+❤ 无需科学上网，全球直连，无封号风险，请求速度是个人账号的1200倍
+
+❤ 无需模型权限，直接使用最新模型，无需开发基础，一个API key全模型通用
+
+❤ 完全兼容OpenAI接口协议，支持无缝对接所有模型到各种支持接口的应用
+
+❤ API key可设定使用时间和余额，便于二次销售 ❤ 100％保障隐私，仅做API中转
+
+❤ 享受我们的渠道优势，价格远低于官方
+
+❤ 支持超多模型、各种渠道，价格 & 质量都有保证
+
+## 总结
+
+AI API中转站的出现，大大简化了AI接口的接入与管理成本。通过 神马聚合中转API（api.whatai.cc），开发者和企业能够以更低成本、更高效率、更稳定的方式调用全球主流AI模型，为智能应用的落地加速。
+
+ ![神马聚合中转Sora2中转站_Sora2 API接口代理_Sora2 API中转服务_Sora2 API国内直连_Sora2文生视频_Sora2图生视频一体化平台](https://pic2.imgdd.cc/item/68c78cabfcdff65483faea2a.jpg)
+
+## 📖 拓展阅读：常见 AI 程序配置教程
+
+### 🛠️ 开发工具
+- [Claude code AI中转站配置教程](https://docs.whatai.cc/docs/otherai/devtools/claudecode/)
+- [VSCode 插件 Code GPT AI中转站配置教程](https://docs.whatai.cc/docs/otherai/devtools/codegpt/)
+- [Jetbrains 插件 ChatGPT - Easycode AI中转站配置教程](https://docs.whatai.cc/docs/otherai/devtools/easycode/)
+- [LangChain AI中转站配置教程](https://docs.whatai.cc/docs/otherai/devtools/langchain/)
+
+### 💬 聊天应用
+- [Cherry Studio AI中转站配置教程](https://docs.whatai.cc/docs/otherai/chat/cherrystudio/)
+- [ChatGPT-web-midjourney-proxy AI中转站配置教程](https://docs.whatai.cc/docs/otherai/chat/chatgptwebmidjourneyproxy/)
+- [Lobe-Chat AI中转站配置教程](https://docs.whatai.cc/docs/otherai/chat/lobechat/)
+- [浏览器插件 ChatGPT Sidebar AI中转站配置教程](https://docs.whatai.cc/docs/otherai/chat/sidebar/)
+- [ChatBox（推荐使用）AI中转站配置教程](https://docs.whatai.cc/docs/otherai/chat/chatbox/)
+
+### ⚙️ 辅助工具
+- [Raycast 插件 ChatGPT AI中转站配置教程](https://docs.whatai.cc/docs/otherai/tools/raycast/)
+- [Dify AI中转站配置教程](https://docs.whatai.cc/docs/otherai/tools/dify/)
+
+### 📦 SDK
+- [OpenAI / Gemini 等官方 SDK AI中转站配置教程](https://docs.whatai.cc/docs/otherai/sdk/openaisdk/)
